@@ -1,7 +1,7 @@
 bacongamejam05 (theme - "Lights Out!")
 ==============
 
-Code for the 05 Bacon Game Jam (06-09-13)
+* Code for the 05 Bacon Game Jam (06-09-13)
 
 * Written in Python v2.7 with Pygame v1.9.1
 
