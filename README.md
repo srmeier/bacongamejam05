@@ -1,4 +1,4 @@
-bacongamejam05 (theme - "Lights Out!")
+(theme - "Lights Out!")
 ==============
 
 * Code for the 05 Bacon Game Jam (06-09-13)
